@@ -1,6 +1,18 @@
-## Why use machine learning
-
 [Tutorial from YouTube (SimpliLearn)](https://www.youtube.com/watch?v=Q59X518JZHE&ab_channel=Simplilearn)
+
+---
+## Setting Up 
+
+```sh 
+git clone https://github.com/rapando/mltutorial
+cd mltutorial
+pipenv install
+pipenv shell
+
+jupyter lab 
+```
+
+---
 
 ### Applications
 - Search engine results
@@ -48,3 +60,4 @@
         - Apriori algorithm
         - FP-Growth
 3. Reinforcement Learning (involves teaching the machine to think based on its past action reward) 
+
